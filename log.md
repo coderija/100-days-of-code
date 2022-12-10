@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: December 10, 2022 (
+### Day 0: December 10, 2022
 
 **Today's Progress**: Reviewed HTML tags and advanced to step 44 on FCC course.
 
