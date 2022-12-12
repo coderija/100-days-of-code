@@ -8,3 +8,9 @@
 Struggle with keeping myself focusing but I made it eventually.
 
 **Link to work:** https://www.freecodecamp.org/learn/2022/responsive-web-design
+
+### Day1: December 11, 2022 
+**Today's Progress**: Added and modified Radio buttons. Advanced to step 49.
+**Thoughts:** Enjoying the course so far. A lot of research and fun while learning and reviewing Web Dev. 
+
+**Link to work:** https://www.freecodecamp.org/learn/2022/responsive-web-design
