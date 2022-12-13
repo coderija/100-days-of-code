@@ -15,4 +15,8 @@ Struggle with keeping myself focusing but I made it eventually.
 **Thoughts:** Enjoying the course so far. A lot of research and fun while learning and reviewing Web Dev. 
 
 ### Day2: December 12, 2022
-**Today's Progress**: HTML review. advanced to step 61
+**Today's Progress**: HTML review. advanced to step 61.
+**Thoughts:** Doing good so far (:
+### Day3 December 13, 2022
+**Today's Progress**: - Finished HTML and started CSS. 
+-Started building a Coffee App with CSS
