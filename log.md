@@ -17,7 +17,7 @@ Struggle with keeping myself focusing but I made it eventually.
 ### Day2: December 12, 2022
 **Today's Progress**: HTML review. advanced to step 61.
 **Thoughts:** Doing good so far (:
-### Day3 December 13, 2022
 
-**Today's Progress**: ////- Finished HTML and started CSS. //////////
--Started building a Coffee Menu with CSS/////
+### Day3 December 13, 2022
+**Today's Progress**: - Finished HTML and started CSS. 
+-Started building a Coffee Menu with CSS. On step
