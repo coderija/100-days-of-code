@@ -20,4 +20,4 @@ Struggle with keeping myself focusing but I made it eventually.
 
 ### Day3 December 13, 2022
 **Today's Progress**: - Finished HTML and started CSS. 
--Started building a Coffee Menu with CSS. On step
+-Started building a Coffee Menu with CSS. On step 17.
