@@ -25,3 +25,7 @@ Struggle with keeping myself focusing but I made it eventually.
 ### Day4 December 14, 2022
 **Today's Progress**: CSS review. Advanced to Step 24 on FCC.
 **Thoughts:**Not very satisfied about today but will wrap up on the next one.
+
+### Day4 December 15, 2022
+**Today's Progress**: Also did a few CSS practice. So little time today but I managed to code a bit.
+**Thoughts:** Nothing to mention.
