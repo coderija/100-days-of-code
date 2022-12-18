@@ -10,11 +10,11 @@ Struggle with keeping myself focusing but I made it eventually.
 **Link to work:** https://www.freecodecamp.org/learn/2022/responsive-web-design
 
 
-### Day 1: December 11, 2022 
+### Day 1 December 11, 2022 
 **Today's Progress**: Added and modified Radio buttons. Advanced to step 49.
 **Thoughts:** Enjoying the course so far. A lot of research and fun while learning and reviewing Web Dev. 
 
-### Day2: December 12, 2022
+### Day2 December 12, 2022
 **Today's Progress**: HTML review. advanced to step 61.
 **Thoughts:** Doing good so far (:
 
@@ -28,4 +28,10 @@ Struggle with keeping myself focusing but I made it eventually.
 
 ### Day5 December 15, 2022
 **Today's Progress**: Also did a few CSS practice. So little time today but I managed to code a bit.
-**Thoughts:** Nothing to mention.
+
+### Day 6 December 16, 2022
+**Today's Progress**:Did some theory only, no coding.
+
+### Day6 December 17, 2022
+**Today's Progress**: Did some CSS coding by building a Cafe Menu. 
+Advanced to step 45 on the curriculum.
