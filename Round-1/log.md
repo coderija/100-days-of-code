@@ -12,26 +12,32 @@ Struggle with keeping myself focusing but I made it eventually.
 
 ### Day 1 December 11, 2022 
 **Today's Progress**: Added and modified Radio buttons. Advanced to step 49.
-**Thoughts:** Enjoying the course so far. A lot of research and fun while learning and reviewing Web Dev. 
+**Thoughts:** Enjoying the course so far. A lot of research and fun while learning and reviewing Web Dev.
 
-### Day2 December 12, 2022
+### Day 2 December 12, 2022
 **Today's Progress**: HTML review. advanced to step 61.
 **Thoughts:** Doing good so far (:
 
-### Day3 December 13, 2022
+### Day 3 December 13, 2022
 **Today's Progress**: - Finished HTML and started CSS. 
 -Started building a Coffee Menu with CSS. On step 17.
 
-### Day4 December 14, 2022
+### Day 4 December 14, 2022
 **Today's Progress**: CSS review. Advanced to Step 24 on FCC.
-**Thoughts:**Not very satisfied about today but will wrap up on the next one.
+**Thoughts:** Not very satisfied about today but will wrap up on the next one.
 
-### Day5 December 15, 2022
+### Day 5 December 15, 2022
 **Today's Progress**: Also did a few CSS practice. So little time today but I managed to code a bit.
 
 ### Day 6 December 16, 2022
 **Today's Progress**:Did some theory only, no coding.
 
-### Day6 December 17, 2022
-**Today's Progress**: Did some CSS coding by building a Cafe Menu. 
+### Day 7 December 17, 2022
+**Today's Progress**: Did some CSS coding by building a Cafe Menu.
 Advanced to step 45 on the curriculum.
+
+### Day 8 December 18, 2022
+**Today's progress** No coding today.
+
+### Day 9 December 19, 2022
+**Today's progress** Another day with CSS. Topics like padding, width...
