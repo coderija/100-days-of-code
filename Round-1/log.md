@@ -41,3 +41,6 @@ Advanced to step 45 on the curriculum.
 
 ### Day 9 December 19, 2022
 **Today's progress** Another day with CSS. Topics like padding, width...
+
+### day 10 December 20, 2022
+**Today's progress** Wapping up CSS.
