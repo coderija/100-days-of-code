@@ -45,3 +45,7 @@ Advanced to step 45 on the curriculum.
 ### day 10 December 20, 2022
 **Today's progress** Wapping up CSS.
 Advancing to level 85 on FCC. 
+
+### day 11 December 21, 2022
+**Today's progress** Wapping up CSS.
+finished the second course of FCC's RWD
