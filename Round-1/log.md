@@ -66,3 +66,22 @@ did the bare minimum of coding today. Advancing to step 26 on FCC's Responsive W
 
 ### day 16/100. December 26, 2022
 **Today's progress**
+No coding today.
+
+### day 17/100. December 27, 2022
+**Today's progress**
+learned about hex, HSL, rgb, linear-gradient while making a colored marker.
+
+### day 18/100. December 28, 2022
+**Today's progress**
+Advanced to step X on CSS color Markers. Learned about RGB property as well as HSL.
+
+
+
+### day 19/100. December 29, 2022
+**Today's progress**
+Advanced to level 75. still learning about color properties with CSS [hsl, rgb... ]
+
+### day 20/100. December 30, 2022
+**Today's progress**
+Done with color properties. 
