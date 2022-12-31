@@ -84,4 +84,6 @@ Advanced to level 75. still learning about color properties with CSS [hsl, rgb..
 
 ### day 20/100. December 30, 2022
 **Today's progress**
-Done with color properties. 
+Done with color properties...kinda
+Learned about alpha channel, blurradius, spreadradius...
+Finished the Color Markers project!
