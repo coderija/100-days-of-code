@@ -111,3 +111,19 @@ No coding.EXAMS PERIOD. Prep for finals.
 ### Day 30/100. Jan 9, 2023
 **Today's thoughts**
 resumed coding today. added multiple features to the registration form.
+
+### Day 31/100. Jan 10, 2023
+**Today's thoughts**
+Step 40 on FCC's project. added some features to the registration form (bio and referrer).  
+
+### Day 32/100. Jan 11, 2023
+**Today's thoughts**
+No code, study day.
+
+### Day 33/100. Jan 12, 2023
+**Today's thoughts**
+Done with html for the registration form project. starting the css side.
+
+### Day 34/100. Jan 13, 2023
+**Today's thoughts**
+Focued on styling the registration form.
