@@ -127,3 +127,4 @@ Done with html for the registration form project. starting the css side.
 ### Day 34/100. Jan 13, 2023
 **Today's thoughts**
 Focued on styling the registration form.
+Project finished.
