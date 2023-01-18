@@ -128,3 +128,23 @@ Done with html for the registration form project. starting the css side.
 **Today's thoughts**
 Focued on styling the registration form.
 Project finished.
+
+### Day 35/100. Jan 14, 2023
+**Today's thoughts**
+No code, study day. 
+
+### Day 36/100. Jan 15, 2023
+**Today's thoughts**
+No code, study day.
+
+### Day 37/100. Jan 16, 2023
+**Today's thoughts**
+No code, study day.
+
+### Day 38/100. Jan 17, 2023
+**Today's thoughts**
+No code, study day.
+
+### Day 39/100. Jan 18. 2023
+**Today's thoughts**
+Started building a Survey Form. [Part of the FreeCodeCamp's project]
