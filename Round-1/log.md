@@ -148,3 +148,12 @@ No code, study day.
 ### Day 39/100. Jan 18. 2023
 **Today's thoughts**
 Started building a Survey Form. [Part of the FreeCodeCamp's project]
+
+### Jan 19 to Mars 3. 2023
+**thoughts**
+C H A L L E N G E   P A U S E D
+
+### Day 40/100. Mars 4. 2023
+**thoughts**
+resumed the challenge.
+Resumed the FCC project, building a cat survey app. Added the required areas.
