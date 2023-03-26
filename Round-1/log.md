@@ -305,3 +305,14 @@ ________________________________
 **Today's thoughts**
 Started the CSS box model project.
 ________________________________
+
+### Days 53 to 62/100 March. 2023 ###
+
+**thoughts**
+Slowly starting the Rothko Painting challenge from FCC using new CSS techniques.
+Tried to learn about Wordpress and decided to learn it for personal reasons. 
+________________________________
+
+### Day 63/100 March. 2023 ###
+
+**thoughts**
