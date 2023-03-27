@@ -313,6 +313,7 @@ Slowly starting the Rothko Painting challenge from FCC using new CSS techniques.
 Tried to learn about Wordpress and decided to learn it for personal reasons. 
 ________________________________
 
-### Day 63/100 March. 2023 ###
+### Day 63/100 March 26. 2023 ###
 
 **thoughts**
+Resumed working on the Rothko Painting project and started a course about WordPress.
