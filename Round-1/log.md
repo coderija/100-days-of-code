@@ -317,3 +317,30 @@ ________________________________
 
 **thoughts**
 Resumed working on the Rothko Painting project and started a course about WordPress.
+________________________________
+
+### Day 64/100 March 27. 2023 ###
+
+**thoughts**
+Finished the Othko Painting. learned a lot about CSS box model by making a Rothko Image.
+________________________________
+
+### Days 65 to 74/100. 2023 ###
+
+**thoughts**
+Started the FCC's WordPress course On Youtube.
+________________________________
+
+### Day 75/100 April 5. 2023 ###
+
+**thoughts**
+Started the next chellenge, Photo Gallery. 
+
+_______________________________
+
+### Day 76 to 96. April 6 to April 26. 2023 ###
+
+**thoughts**
+Worked on College projects.
+
+_______________________________
