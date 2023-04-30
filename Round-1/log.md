@@ -310,7 +310,7 @@ ________________________________
 
 **thoughts**
 Slowly starting the Rothko Painting challenge from FCC using new CSS techniques.
-Tried to learn about Wordpress and decided to learn it for personal reasons. 
+Tried to learn about Wordpress and decided to learn it for personal reasons.
 ________________________________
 
 ### Day 63/100 March 26. 2023 ###
@@ -353,3 +353,11 @@ ________________________________
 
 **thoughts**
 Worked on some college projects.
+
+### Day 100. April 30. 2023 ###
+
+**thoughts**
+finished the PhotoGallery project from FCC.
+
+*Final thoughts on the Challenge*
+Despite the inconsistency I've been experiencing through the challenge, I still feel proud of myself as I managed to learn many things and build projects while dealing with life, college and mental health. The second round of this challenge will be a better one.
