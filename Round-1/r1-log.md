@@ -1,11 +1,10 @@
-# #100DaysOfCode Log - Round 1 - [Your Name Here]
+# #100DaysOfCode Log - [coderija]
 
-The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
+##ROUND-1
+Started on [Dec 10, 2022].
 
-## Log
-
-### R1D1 
 Started a Responsive Web Design course on FreeCodeCamp.org
 Goal: build my first portfolio.
 
-### R1D2
+Ended on [April 10, 2023].
+
