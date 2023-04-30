@@ -334,13 +334,22 @@ ________________________________
 ### Day 75/100 April 5. 2023 ###
 
 **thoughts**
-Started the next chellenge, Photo Gallery. 
+Started the next chellenge, Photo Gallery.
+________________________________
 
-_______________________________
-
-### Day 76 to 96. April 6 to April 26. 2023 ###
+### Day 76 to 95. April 6 to April 25. 2023 ###
 
 **thoughts**
 Worked on College projects.
+________________________________
 
-_______________________________
+### Day 96. April 26. 2023 ###
+
+**thoughts**
+Resumed the photo gallery project on FCC.
+________________________________
+
+### Day 97 to 99. April 29. 2023 ###
+
+**thoughts**
+Worked on some college projects.
