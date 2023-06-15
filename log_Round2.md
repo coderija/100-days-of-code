@@ -14,4 +14,5 @@ Ended on [].
 ## Day 1/100. Jun 14, 2023 ###
 
 **Today's thoughts:**
+Resumed FCC challenges and worked on some WP tasks.
 ________________________________
