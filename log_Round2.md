@@ -32,3 +32,5 @@ ________________________________
 ## Day 9/100 Jun 22, 2023 ###
 
 **Thoughts:**
+finished the Nutrition Label project.
+Learned so much about Typography with html/css.
